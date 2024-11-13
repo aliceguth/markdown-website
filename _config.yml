@@ -1,2 +1,6 @@
 title: My Rad Site
 description: Site for all my cool things
+
+theme: minims
+plugins:
+  -jekyll-remote-theme
