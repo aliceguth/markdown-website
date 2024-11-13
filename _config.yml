@@ -3,4 +3,4 @@ description: Site for all my cool things
 
 theme: minima
 plugins:
-  -jekyll-remote-theme
+- jekyll-remote-theme
